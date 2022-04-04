@@ -63,10 +63,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sgoutamdefraudit/auth-pack-demo.git"
+    "url": "git+https://github.com/sgoutamdefraudit/demo-auth-spa.git"
   },
   "bugs": {
-    "url": "https://github.com/sgoutamdefraudit/auth-pack-demo/issues"
+    "url": "https://github.com/sgoutamdefraudit/demo-auth-spa/issues"
   },
-  "homepage": "https://github.com/sgoutamdefraudit/auth-pack-demo/tree/main#auth-pack-demo"
+  "homepage": "https://github.com/sgoutamdefraudit/demo-auth-spa/blob/main/README.md#auth-pack-demo"
 }
