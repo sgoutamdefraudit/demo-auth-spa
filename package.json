@@ -1,5 +1,5 @@
 {
-  "name": "@eval/auth",
+  "name": "@goutameval/auth",
   "version": "0.0.1",
   "description": "demo package",
   "main": "src/eval-auth.ts",
@@ -55,7 +55,7 @@
   },
   "types": "dist/eval-auth.d.ts",
   "keywords": [
-    "@eval/auth"
+    "@goutameval/auth"
   ],
   "author": {
     "name": "Goutam Eval"
